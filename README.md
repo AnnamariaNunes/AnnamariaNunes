@@ -1,20 +1,13 @@
+<div align="center">
 <h1>Hi , I am Annamaria 👩🏽</h1>
 
 <h4>- 🌱 I’m studying at 42Lisboa  </h4>
 <h4>- 💻 Finally, I found something that I am passionate about: coding! </h4>
 <h4>- ⚽️ In my free time, I love to practice all kinds of sports and play videogames 🎮 !</h4>
 <h4>- 💡 But above all, I love to discover and learn new things.</h4>
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=AnnamarianNunes&show_icons=true&theme=dracula"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=AnnamariaNunes&show_icons=true&theme=dracula"
-  media="(prefers-color-scheme:dark), (prefers-color-scheme:dark)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=AnnamariaNunes&show_icons=true&theme=dracula" />
-</picture>
+
+
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clj4c7vyh002508l6h7jwvpo6/stats?cursusId=21&coalitionId=110" alt="my 42 status" /></a>
 
 <h3> ⚒️ Languages that I have been developing: </h3>
 <div style="display: inline_block"><br>
@@ -40,3 +33,5 @@
 </div>
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
+
+</div>
